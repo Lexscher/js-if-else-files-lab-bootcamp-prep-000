@@ -2,7 +2,7 @@ var name = "Joe"
 var height = "74"
 
 name = "Susan";
-height = "70"
+height = 70;
 // console.log(name)
 // // Positive test
 // let okay = (str) => {
